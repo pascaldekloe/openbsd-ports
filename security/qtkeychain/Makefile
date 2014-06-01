@@ -4,7 +4,7 @@ V =			0.3.0
 DISTNAME =		qtkeychain-${V}
 CATEGORIES =		security
 
-HOMEPAGE =		https://projects.kde.org/projects/playground/libs/libechonest
+HOMEPAGE =		https://github.com/frankosterfeld/qtkeychain
 MASTER_SITES =		https://github.com/frankosterfeld/qtkeychain/archive/
 DISTFILES =		v${V}.tar.gz
 PERMIT_PACKAGE_CDROM =	Yes
