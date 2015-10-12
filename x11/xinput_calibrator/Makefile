@@ -12,10 +12,11 @@ PERMIT_PACKAGE_FTP =	Yes
 
 WANTLIB =		X11 Xext Xi Xrandr Xrender c m stdc++ xcb
 BUILD_DEPENDS =		devel/autoconf/${AUTOCONF_VERSION} \
+			devel/automake/${AUTOMAKE_VERSION} \
 			devel/libtool
 
 AUTOCONF_VERSION =	2.69
-AUTOMAKE_VERSION =	1.14
+AUTOMAKE_VERSION =	1.15
 
 CONFIGURE_ARGS =	${CONFIGURE_SHARED} \
 			--with-gui=x11
