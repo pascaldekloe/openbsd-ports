@@ -4,6 +4,7 @@ V =			0.7.5
 DISTNAME =		xinput_calibrator-${V}
 CATEGORIES =		x11
 HOMEPAGE =		http://www.freedesktop.org/wiki/Software/xinput_calibrator
+MAINTAINER =		Pascal S. de Kloe <pascal@quies.net>
 
 MASTER_SITES =		https://github.com/tias/xinput_calibrator/archive/
 DISTFILES =		v${V}.tar.gz
