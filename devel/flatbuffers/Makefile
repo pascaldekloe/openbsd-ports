@@ -1,6 +1,6 @@
 COMMENT =		Memory Efficient Serialization
 
-V =			1.5.0
+V =			1.6.0
 DISTNAME =		flatbuffers-${V}
 CATEGORIES =		devel
 HOMEPAGE =		http://google.github.io/flatbuffers/
